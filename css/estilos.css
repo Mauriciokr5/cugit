@@ -9,6 +9,11 @@ p{
     font-size: 20px;
     color: green;
 }
+#header {
+    background-image: url("../imagenes/logo.avif");
+    background-size: cover;
+    background-position: center;
+}
 
 #header nav {
     display: flex;
